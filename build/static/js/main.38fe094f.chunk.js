@@ -9476,7 +9476,7 @@
                     a.a.createElement(
                       Z,
                       { variant: "danger" },
-                      "Login With SKCET Mail Id to Continue"
+                      "Login With PSNA Mail Id to Continue"
                     ),
                     a.a.createElement(ke, null)
                   )
